@@ -12,7 +12,6 @@ This is an Android application that fetches and displays images from a remote se
 - Hilt for dependency injection
 - Coroutines for asynchronous programming
 - Jetpack Compose for UI
-- MockK for unit testing
 
 ## Features
 
