@@ -25,6 +25,6 @@ This is an Android application that fetches and displays images from a remote se
 
 To run this project, you need to have Android Studio installed. Follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/imageloading.git`
+1. Clone the repository: `git clone https://github.com/adhikaputraa/imageloading.git`
 2. Open the project in Android Studio.
 3. Run the app on an emulator or a real device.
